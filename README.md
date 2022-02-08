@@ -1,5 +1,6 @@
 Traditional server rendered e-commerce store built on Spring Framework for learning purposes.
 
+
 TECHNOLOGIES:
 
 Java 8
@@ -13,6 +14,8 @@ Thymeleaf
 Bootstrap
 
 jQuery
+
+
 
 FUNCTIONALITY/FEATURES:
 

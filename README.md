@@ -1,32 +1,32 @@
-Traditional server rendered e-commerce store built on Spring Framework for learning purposes.
+# Traditional server rendered e-commerce store built on Spring Framework for learning purposes.
 
 
-TECHNOLOGIES:
+*1* **TECHNOLOGIES:
 
-Java 8
+** Java 8
 
-Spring framework (Sping boot, Spring MVC, Spring Data JPA/Hibernate, Spring Security)
+** Spring framework (Sping boot, Spring MVC, Spring Data JPA/Hibernate, Spring Security)
 
-MySQL
+** PostgreSQL
 
-Thymeleaf
+** Thymeleaf
 
-Bootstrap
+** Bootstrap
 
-jQuery
+** jQuery
 
 
 
-FUNCTIONALITY/FEATURES:
+*2* **FUNCTIONALITY/FEATURES:
 
-User register/login with role based authorization.
+** User register/login with role based authorization.
 
-Admin portal for CRUD operations on products (only accessible by admin user).
+** Admin portal for CRUD operations on products (only accessible by admin user).
 
-Store: display all products, filter products by price, category, size or brand, order results by different criteria or filter by search input.
+** Store: display all products, filter products by price, category, size or brand, order results by different criteria or filter by search input.
 
-Purchasing: view details of product, add to shopping cart, checkout, place order with shipping address and payment info.
+** Purchasing: view details of product, add to shopping cart, checkout, place order with shipping address and payment info.
 
-Create and edit user profile, view orders history.
+** Create and edit user profile, view orders history.
 
-Responsive design.
+** Responsive design.

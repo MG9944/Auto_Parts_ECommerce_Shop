@@ -1,7 +1,7 @@
 # Traditional server rendered e-commerce store built on Spring Framework for learning purposes.
 
 
-*1* **TECHNOLOGIES:
+*1 **TECHNOLOGIES:
 
 ** Java 8
 
@@ -17,7 +17,7 @@
 
 
 
-*2* **FUNCTIONALITY/FEATURES:
+*2 **FUNCTIONALITY/FEATURES:
 
 ** User register/login with role based authorization.
 
@@ -30,3 +30,13 @@
 ** Create and edit user profile, view orders history.
 
 ** Responsive design.
+
+** Home page
+![h1](https://user-images.githubusercontent.com/94039553/161494927-f260798c-058b-4696-b442-0615a8aba013.jpg)
+
+** Shop
+![s1](https://user-images.githubusercontent.com/94039553/161495051-36a6f616-5b69-420b-b29a-5c39292954f3.jpg)
+
+** Mobile home page
+
+![mh1](https://user-images.githubusercontent.com/94039553/161495124-0e4b7202-4e85-4c3a-a2cb-2ce281b3dda6.jpg)

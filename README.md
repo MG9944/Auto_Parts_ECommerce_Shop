@@ -3,7 +3,7 @@
 
 *1 **TECHNOLOGIES:
 
-* Java 8
+Java 8
 
 * Spring framework (Sping boot, Spring MVC, Spring Data JPA/Hibernate, Spring Security)
 
